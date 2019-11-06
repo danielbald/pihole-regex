@@ -14,3 +14,5 @@
 ^stat(s|istics)?[0-9]*[-.]
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
+^(r\d{1,2})(---|\.)(sn-)(([[:alnum:]]{1,8})|([[:alnum:]]{1,7}-[[:alnum:]]{1,4}))(\.googlevideo\.com)
+.*\.g[0-9]+\..*
