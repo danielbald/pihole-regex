@@ -23,10 +23,10 @@ sudo cp /etc/pihole/regex.list /etc/pihole/regex.list.bak
 
 ### Installation
 ```
-curl -sSl https://raw.githubusercontent.com/mmotti/pihole-regex/master/install.sh | bash 
+curl -sSl https://raw.githubusercontent.com/danielbald/pihole-regex/master/install.sh | bash 
 ```
 
 ### Removal
 ```
-curl -sSl https://raw.githubusercontent.com/mmotti/pihole-regex/master/uninstall.sh | bash
+curl -sSl https://raw.githubusercontent.com/danielbald/pihole-regex/master/uninstall.sh | bash
 ```
